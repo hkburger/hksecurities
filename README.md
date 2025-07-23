@@ -8,18 +8,20 @@
 ## ✨ 众安银行 ZA BANK 开户福利
 *   开户成功 **14天内入金1000 HKD**，且部分为**非存款余额**（可以购买货币基金），可获得 **1000 HKD券包**！
 *   🔑 邀请码：`RA6RN7`
-*   📝 [操作指引](操作流程)
+*   📝 [操作指引](https://mp.weixin.qq.com/s/1ZTh4Yt-Aa56p-oPkadeLg)
 
 ---
 
 ## ✨ 香港证券户口内地居民渠道专属开户福利（2025年7月）
+<img width="1039" height="614" alt="image" src="https://github.com/user-attachments/assets/5e4d300a-064b-4700-bd14-d9091a13a08a" />
+
 *   香港居民版本请点击：[链接](链接)
 
 ---
 
 ## 📎 附件材料
-*   🗂️ [存量和地址证明模板](百度网盘下载) 提取码：`8888`
-*   🗂️ [中银汇丰众安APP地址修改指南](链接)
+*   🗂️ [存量和地址证明模板](https://pan.baidu.com/s/1NU9aD3b0efAId_ZZ3QZpRw?pwd=8888) 提取码：`8888`
+*   🗂️ [中银汇丰众安APP地址修改指南](https://mp.weixin.qq.com/s/UI_8pysNWNPR3gqVrtxr2g)
 
 ---
 
@@ -70,5 +72,6 @@
 *   🔗 [专属链接](https://sourl.cn/gCGGVd)
 
 ---
-
-> **本文章实时更新，联系方式在文末。**
+### 联系我
+* 邮箱：cs@hkburger.top
+* TG：https://t.me/hkburger
