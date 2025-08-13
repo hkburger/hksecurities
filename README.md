@@ -1,7 +1,7 @@
 # 香港證券戶口新戶福利
 > **本文章实时更新，联系方式在文末。**
 
-[港股打新极简入门指南，小白扫盲贴](https://mp.weixin.qq.com/s/GT5Dz8UdHgcDcmx8_JDu8Q)
+[港股打新极简入门指南，小白扫盲贴](https://github.com/hkburger/hksecurities/blob/main/%E6%B8%AF%E8%82%A1%E6%89%93%E6%96%B0%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.md)
 
 ---
 
