@@ -12,8 +12,9 @@
 
 ---
 
-## ✨ 香港证券户口内地居民渠道专属开户福利（2025年7月）
-<img width="1039" height="614" alt="image" src="https://github.com/user-attachments/assets/5e4d300a-064b-4700-bd14-d9091a13a08a" />
+## ✨ 香港证券户口内地居民渠道专属开户福利（2025年8月）
+![111](https://github.com/user-attachments/assets/77456094-1ed7-4ec4-8947-7679b66369ba)
+
 
 *   香港居民版本请点击：[链接](链接)
 
